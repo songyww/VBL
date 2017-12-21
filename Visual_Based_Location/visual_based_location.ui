@@ -23,7 +23,7 @@
       <height>981</height>
      </rect>
     </property>
-    <widget class="QAxWidget" name="axWidget_8">
+    <widget class="QAxWidget" name="MapTocCtr3">
      <property name="geometry" stdset="0">
       <rect>
        <x>0</x>
@@ -33,7 +33,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QAxWidget" name="axWidget_9">
+    <widget class="QAxWidget" name="MapCtr3">
      <property name="geometry" stdset="0">
       <rect>
        <x>120</x>
@@ -43,7 +43,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QAxWidget" name="axWidget_7">
+    <widget class="QAxWidget" name="MapToolBarCtr3">
      <property name="geometry" stdset="0">
       <rect>
        <x>0</x>
@@ -53,7 +53,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QAxWidget" name="axWidget_3">
+    <widget class="QAxWidget" name="MapCtr2">
      <property name="geometry" stdset="0">
       <rect>
        <x>120</x>
@@ -63,7 +63,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QAxWidget" name="axWidget_2">
+    <widget class="QAxWidget" name="MapTocCtr2">
      <property name="geometry" stdset="0">
       <rect>
        <x>0</x>
@@ -73,7 +73,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QAxWidget" name="axWidget">
+    <widget class="QAxWidget" name="MapToolBarCtr2">
      <property name="geometry" stdset="0">
       <rect>
        <x>0</x>
@@ -83,7 +83,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QAxWidget" name="axWidget_6">
+    <widget class="QAxWidget" name="MapCtr1">
      <property name="geometry" stdset="0">
       <rect>
        <x>1080</x>
@@ -93,7 +93,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QAxWidget" name="axWidget_5">
+    <widget class="QAxWidget" name="MapTocCtr1">
      <property name="geometry" stdset="0">
       <rect>
        <x>920</x>
@@ -103,12 +103,12 @@
       </rect>
      </property>
     </widget>
-    <widget class="QAxWidget" name="axWidget_4">
+    <widget class="QAxWidget" name="MapToolBarCtr1">
      <property name="geometry" stdset="0">
       <rect>
-       <x>920</x>
+       <x>1130</x>
        <y>0</y>
-       <width>731</width>
+       <width>451</width>
        <height>31</height>
       </rect>
      </property>
@@ -204,8 +204,8 @@
     <widget class="QPushButton" name="pushButton_7">
      <property name="geometry">
       <rect>
-       <x>620</x>
-       <y>510</y>
+       <x>980</x>
+       <y>0</y>
        <width>151</width>
        <height>31</height>
       </rect>
@@ -217,8 +217,8 @@
     <widget class="QTextEdit" name="textEdit">
      <property name="geometry">
       <rect>
-       <x>560</x>
-       <y>510</y>
+       <x>920</x>
+       <y>0</y>
        <width>61</width>
        <height>31</height>
       </rect>
@@ -302,7 +302,7 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;选择降采样比例（默认为1）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
     </widget>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>810</x>
@@ -349,7 +349,7 @@ p, li { white-space: pre-wrap; }
       </item>
      </layout>
     </widget>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>820</x>
@@ -403,7 +403,7 @@ p, li { white-space: pre-wrap; }
       </item>
      </layout>
     </widget>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>920</x>
